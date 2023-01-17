@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GeethaaSrinivasan
 - 👀 I’m interested in developing android,windows and ios applications.
 - 🌱 I’m currently learning python
-- 📫 https://inspiretolearnprogramming.blogspot.com/
+- 📫 https://careerpath-gs.com/
 - 📫   https://candpythonprogramming.quora.com/
 - 📫   gv.eduservices@gmail.com
 
